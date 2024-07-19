@@ -2,8 +2,6 @@
 
 **Sustainability-Driven Food Waste Reduction Platform**
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -11,8 +9,6 @@
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -48,10 +44,3 @@ To run "Food Saver" locally, follow these steps:
 2. **Dynamic Menu Optimization**: Experience real-time menu adjustments based on predictive analytics.
 3. **Surplus Redistribution**: Contribute to the community by redistributing surplus resources.
 
-## Contributing
-
-Contributions are welcome! Please follow the [Contribution Guidelines](CONTRIBUTING.md) to get started.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
